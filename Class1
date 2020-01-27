@@ -1,0 +1,15 @@
+//I'll be starting to memorize what I've learned here so don't mind the basic stuff ;p
+
+public class NewWorld
+{
+
+   public static void main( String [] args)
+  {
+   System.out.println( " Class 1 POG " );
+
+   System.exit( 0 ); 
+
+  }
+
+}
+   
